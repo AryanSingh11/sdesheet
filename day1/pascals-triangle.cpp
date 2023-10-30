@@ -1,3 +1,7 @@
+//program to print pascals tringle
+// https://leetcode.com/problems/pascals-triangle/
+
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
