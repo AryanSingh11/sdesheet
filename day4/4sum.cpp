@@ -1,6 +1,9 @@
 // https://youtu.be/eD95WRfh81c?si=8B-4hBjbJKOThJtQ
 //https://leetcode.com/problems/4sum/description/
 
+
+//approach: fix i and j and then use 2 pointer method for k and l;
+
 #include <iostream>
 #include <bits/stdc++.h>
 #include <cmath>
